@@ -1,0 +1,12 @@
+{
+    "name": "amu/amuframework",
+    "description": "this is a tesing MVC framework",
+    "type": "project",
+    "license": "open source",
+    "authors": [
+        {
+            "name": "amit shashikant kasabe"
+        }
+    ],
+    "require": {}
+}
