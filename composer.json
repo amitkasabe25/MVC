@@ -1,5 +1,5 @@
 {
-    "name": "amu/amuframework",
+    "name": "amitkasabe/amuframework",
     "description": "this is a tesing MVC framework",
     "type": "project",
     "license": "open source",
@@ -7,6 +7,7 @@
         {
             "name": "amit shashikant kasabe"
         }
+
     ],
     "require": {}
 }
